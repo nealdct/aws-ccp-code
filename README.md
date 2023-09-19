@@ -1,4 +1,4 @@
-# AWS Certified Cloud Practitioner CLF-C01 Course Code
+# AWS Certified Cloud Practitioner CLF-C02 Course Code
 *By [Digital Cloud Training](https://digitalcloud.training/) - Course Author Neal Davis*
 
 ## How to Use the Course Code
@@ -19,7 +19,7 @@ At the end of each section use the exam cram lesson for quick revision of the im
 
 In this AWS training course, you’ll learn the fundamental concepts of cloud computing, what Amazon Web Services (AWS) is and how it can help companies in many different ways. You’ll learn about the value proposition of AWS, the core services, pricing models and options, security in the cloud, and much much more.
 
-We created this course according to the official AWS Cloud Practitioner CLF-C01 exam guide to ensure you’re learning exactly what you need to know to pass your exam and work as a Cloud Practitioner. The course ensures you have the skills to answer questions from any of the four domains in the exam guide:
+We created this course according to the official AWS Cloud Practitioner CLF-C02 exam guide to ensure you’re learning exactly what you need to know to pass your exam and work as a Cloud Practitioner. The course ensures you have the skills to answer questions from any of the four domains in the exam guide:
 
 - Domain 1: Cloud Concepts
 - Domain 2: Security and Compliance
